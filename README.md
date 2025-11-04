@@ -31,4 +31,6 @@ I am a beginner .NET developer <img src="https://media.giphy.com/media/WUlplcMpO
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=StanislavSavelyev&theme=dark&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StanislavSavelyev)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StanislavSavelyev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
