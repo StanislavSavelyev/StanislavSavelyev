@@ -28,3 +28,7 @@ I am a beginner .NET developer <img src="https://media.giphy.com/media/WUlplcMpO
   <img src=https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/git/git-original-wordmark.svg title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src=https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/visualstudio/visualstudio-original-wordmark.svg title="Java" alt="Java" width="40" height="40"/>&nbsp;
 </div>
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=StanislavSavelyev&theme=dark&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
